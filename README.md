@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Delacruzz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá, eu sou o [Delacruz](https://github.com/Delacruzz)
 
-<!---
-Delacruzz/Delacruzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é **Alisson Felipe** e sou um estudante de programação nas horas vagas.
+
+- 🧑‍🎓 Atualmente estou cursando o 2º ano do ensino médio e estudando HTML5, CSS3 e Javascript.
+- 🚀 Estou trabalhando no desenvolvimento de um servidor de FiveM no qual é um modo de jogo do Grand Theat Auto.
+- 💻 Minha linguagem de programação favorita é LUA.
+  
+##
+  
+<div>
+  <a href="https://github.com/Delacruzz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Delacruzz&count_private=true&show_icons=true&theme=react"/> ->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delacruzz&count_private=true&show_icons=true&theme=react"/>
+</div>
