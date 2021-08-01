@@ -3,7 +3,7 @@
 Meu nome é **Alisson Felipe** e sou um estudante de programação nas horas vagas.
 
 - 🧑‍🎓 Atualmente estou cursando o 2º ano do ensino médio e estudando HTML5, CSS3 e Javascript.
-- 🚀 Estou trabalhando no desenvolvimento de um servidor de FiveM no qual é um modo de jogo do Grand Theat Auto.
+- 🚀 Estou trabalhando no desenvolvimento de um servidor de FiveM no qual é utilizado LUA como linguagem principal.
 - 💻 Minha linguagem de programação favorita é LUA.
   
 ##
