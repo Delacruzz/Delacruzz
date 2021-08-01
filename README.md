@@ -8,8 +8,8 @@ Meu nome é **Alisson Felipe** e sou um estudante de programação nas horas vag
   
 ##
   
-<div>
+<div> <center>
   <a href="https://github.com/Delacruzz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Delacruzz&count_private=true&show_icons=true&theme=react"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delacruzz&count_private=true&show_icons=true&theme=react"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delacruzz&count_private=true&show_icons=true&theme=react"/></center>
 </div>
