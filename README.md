@@ -1,14 +1,34 @@
-## Olá, eu sou o [Delacruzz](https://github.com/Delacruzz)
+## 🌎 Olá, meu nome é Alisson Felipe e sou um Desenvolvedor Web Back-End.
 
-Meu nome é **Alisson Felipe** e sou um estudante de programação.
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, LUA e PHP.</strong>
+</p>
 
-- 🧑‍🎓 Atualmente estou cursando o 2º ano do ensino médio e estudando HTML5, CSS3 e Javascript.
-- 💻 Desejo seguir na carreira de programador, sendo um desenvolvedor Fullstack.
-  
-##
-  
-<div>
-  <a href="https://github.com/Delacruzz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Delacruzz&count_private=true&show_icons=true&theme=react"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delacruzz&count_private=true&show_icons=true&theme=react"/>
-</div>
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja bater um papo comigo, entre em contato comigo por:
+</p>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+### ⚡ Projetos realizados por mim
+Nesta seção você encontrará projetos em que participei:
+
+[**SOON**](https://github.com/Delacruzz) \
+ Em produção • 1 mês\
+ Foram utiliadas as tecnologias: HTML5, CSS3 e JavaScript Nativo.
+<br/>
