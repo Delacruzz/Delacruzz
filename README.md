@@ -12,7 +12,7 @@
   💌 Se você deseja bater um papo comigo, entre em contato comigo por:
 </p>
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:alissonfelipenett@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   <a href="#" alt="Linkedin">
