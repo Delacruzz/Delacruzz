@@ -1,7 +1,7 @@
-## 🌎 Olá, meu nome é Alisson Felipe e sou um Desenvolvedor Web Back-End.
+## 🌎 Olá, meu nome é Alisson Felipe e desejo me tornar um Desenvolvedor Web Back-End.
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript, LUA e PHP.</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript e LUA.</strong>
 </p>
 
 <p align="left">
