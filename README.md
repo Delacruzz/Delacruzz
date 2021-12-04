@@ -28,7 +28,7 @@
 ### ⚡ Projetos realizados por mim
 Nesta seção você encontrará projetos em que participei:
 
-[**SOON**](https://github.com/Delacruzz) \
+[**SOON**](https://github.com/dlzzdev) \
  Em produção • 1 mês\
  Foram utiliadas as tecnologias: HTML5, CSS3 e JavaScript Nativo.
 <br/>
