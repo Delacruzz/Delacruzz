@@ -1,11 +1,11 @@
-## 🌎 Olá, meu nome é Alisson Felipe e desejo me tornar um Desenvolvedor Web Back-End.
+### 🌎 Eai, tranquilo? Meu nome é Aisson Felipe, tenho 17 anos e desejo me tornar um Desenvolvedor Back-End.
 
+🚀 Habilidades
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript e LUA.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Git e GitHub.</strong>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
 <p align="left">
@@ -26,9 +26,5 @@
 </p>
 
 ### ⚡ Projetos realizados por mim
-Nesta seção você encontrará projetos em que participei:
-
-[**SOON**](https://github.com/dlzzdev) \
- Em produção • 1 mês\
- Foram utiliadas as tecnologias: HTML5, CSS3 e JavaScript Nativo.
-<br/>
+Possuo um repositório com todos os projetos que eu desenvolvi.
+<p><a href="https://github.com/dlzzdev/all-projects/" alt="Github" target="_blank">Clique aqui para conhecer</p></a>
