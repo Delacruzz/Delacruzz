@@ -1,4 +1,4 @@
-### 🌎 Eai, tranquilo? Meu nome é Aisson Felipe, tenho 17 anos e desejo me tornar um Desenvolvedor Back-End.
+### 🌎 Eai, tranquilo? Meu nome é Aisson Felipe, tenho 17 anos e desejo me tornar um Desenvolvedor back-end.
 
 🚀 Habilidades
 <p align="left">
@@ -18,13 +18,10 @@
   <a href="https://www.linkedin.com/in/alisson-felipeee/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-  <a href="https://api.whatsapp.com/send?phone=+5561998549160" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
   <a href="https://www.instagram.com/alisson.felipeee/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ### ⚡ Projetos realizados por mim
 Possuo um repositório com todos os projetos que eu desenvolvi.
-<p><a href="https://github.com/dlzzdev/all-projects/" alt="Github" target="_blank">Clique aqui para conhecer</p></a>
+<p><a href="https://github.com/dlzzdev/all-projects/" alt="Github" target="_blank">Clique aqui para visualizar.</p></a>
