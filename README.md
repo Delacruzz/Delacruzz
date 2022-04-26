@@ -1,11 +1,11 @@
-### Sobre mim
+## Sobre mim
 
 - Meu nome é Alisson e tenho 17 anos!
 - Sou um desenvolvedor back-end porém não limitado a ele ou a uma linguagem especifica, sou apaixonado por conhecimento e estou sempre buscando mais.
 - Atualmente estou estudando Node.js
 
 
-🚀 Habilidades
+### 🚀 Habilidades
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
