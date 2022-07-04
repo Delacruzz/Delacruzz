@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- Meu nome é Alisson e tenho 17 anos!
-- Sou um desenvolvedor back-end porém não limitado a ele ou a uma linguagem especifica, sou apaixonado por conhecimento e estou sempre buscando mais.
-- Atualmente estou estudando Node.js
+- Meu nome é Alisson Felipe e tenho 18 anos!
+- Sou um desenvolvedor focado back-end porém atuo no front-end, tambén não sou limitado a uma linguagem especifica, sou apaixonado por conhecimento e estou sempre buscando mais.
+- Atualmente estou desenvolvendo projetos pessoais.
 
 
 ### 🚀 Habilidades
