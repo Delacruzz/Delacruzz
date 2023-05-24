@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- Meu nome é Alisson Felipe e tenho 18 anos!
+- Meu nome é Alisson Felipe e tenho 19 anos!
 - Sou um desenvolvedor web back-end, não sou limitado a uma linguagem especifica, sou apaixonado por conhecimento e estou sempre buscando mais.
-- Atualmente estou desenvolvendo projetos pessoais e em busca de uma oportunidade de atuar no mercado.
+- Atualmente estou desenvolvendo projetos pessoais, estudando Java e em busca de uma oportunidade de atuar no mercado.
 
 
 ### 🚀 Habilidades
